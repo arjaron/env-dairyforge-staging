@@ -25,9 +25,6 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- name: interchange-app
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.71
 - name: notifications-app
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.10
